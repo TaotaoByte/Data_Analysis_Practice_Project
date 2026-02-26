@@ -1,0 +1,2 @@
+# Data_Analysis_Practice_Project
+这个仓库里是我自己学习数据分析时所做的实践项目
